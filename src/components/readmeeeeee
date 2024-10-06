@@ -1,0 +1,11 @@
+ {/* <img
+          src={any}
+          alt="any"
+          className="absolute mt-[750px] h-[150px] ml-[840px] w-auto"
+        />  */}
+
+        {/* <img
+        src={r}
+        alt="rainbow"
+        className="absolute top-[570px] h-[290px] ml-[1630px] ml-lg-[40px] w-auto"
+      />  */}
